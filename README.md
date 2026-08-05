@@ -1,9 +1,4 @@
-<h1 align="center">Merhaba, ben Murat Efe Çamoğlu 👋</h1>
-<h3 align="center">📱 Mobil Geliştirici | Flutter</h3>
-
-<p align="center">
-  Flutter ile modern, performanslı ve kullanıcı dostu mobil uygulamalar geliştiriyorum.
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Hi+I'm+Murat+Efe+%C3%87amo%C4%9Flu+%F0%9F%91%8B;%F0%9F%93%B1+Mobile+Devoloper+%7C+Flutter" alt="Typing SVG" /></a>
 
 ---
 
