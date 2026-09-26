@@ -1,40 +1,97 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&letterSpacing=&pause=1000&center=true&width=435&lines=Hi+I'm+Murat+Efe+%C3%87amo%C4%9Flu+%F0%9F%91%8B;%F0%9F%93%B1+Mobile+Devoloper+%7C+Flutter" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/MuratEfeCamoglu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Merhaba%2C+ben+Murat+Efe+%C3%87amo%C4%9Flu+%F0%9F%91%8B;%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Dart;%F0%9F%93%8D+Ayd%C4%B1n%2C+T%C3%BCrkiye" alt="Merhaba, ben Murat Efe Çamoğlu — Mobile Developer | Flutter & Dart" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://muratefecamoglu.vercel.app/"><img src="https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolyo" /></a>
+  <a href="https://www.linkedin.com/in/murat-efe-%C3%A7amo%C4%9Flu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:camoglumuratefe@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
+</p>
 
 ---
 
 ### 🚀 Hakkımda
 
-- 🔭 Şu anda Flutter ile mobil uygulama projeleri geliştiriyorum
+- 📱 Flutter ve Dart ile Android, iOS ve web için mobil uygulamalar geliştiriyorum
+- 🧱 Provider ile state yönetimi, Firebase, Isar ve SQLite ile veri katmanı üzerinde çalışıyorum
+- 🔌 Bluetooth / BLE ile donanım haberleşmesi ve Gemini AI gibi servis entegrasyonları ilgimi çekiyor
 - 🌱 Sürekli yeni teknolojiler ve mimari yaklaşımlar öğreniyorum
-- 💬 Flutter, Dart ve mobil geliştirme konularında sohbet edebiliriz
-- 📫 Bana ulaşmak için: **camoglumuratefe@gmail.com**
+- 🌐 Portfolyom: **[muratefecamoglu.vercel.app](https://muratefecamoglu.vercel.app/)**
+- 📫 Bana ulaşmak için: **[camoglumuratefe@gmail.com](mailto:camoglumuratefe@gmail.com)**
 
 ---
 
 ### 🛠️ Kullandığım Teknolojiler
 
+**Mobil**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Provider-6A1B9A?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+</p>
+
+**Veri & Backend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Isar-5A67D8?style=for-the-badge&logo=databricks&logoColor=white" alt="Isar" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+</p>
+
+**Web & Diğer**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ### 📌 Öne Çıkan Projeler
 
-- **[Expense Tracker](https://github.com/MuratEfeCamoglu/Expense-Tracker)** — Flutter ve Isar Database ile geliştirilmiş, harcama takibi, kategorilendirme ve grafiksel analiz (fl_chart) sunan bir bütçe yönetim uygulaması.
-- **[Shoping App](https://github.com/MuratEfeCamoglu/Shoping_app)** — Provider mimarisiyle geliştirilmiş, ürün listeleme ve sepet yönetimi içeren bir alışveriş uygulaması.
+| Proje | Açıklama | Teknolojiler |
+|---|---|---|
+| 😴 **[SleepApp](https://github.com/MuratEfeCamoglu/SleepApp)** | Uyku süresi, tahmini uyku evreleri ve kalite takibi yapan, verileri yalnızca cihazda tutan reklamsız uyku takipçisi. | Flutter, Dart |
+| 🍋 **[RestaurantApp](https://github.com/MuratEfeCamoglu/RestaurantApp)** | Masa → mutfak → hesap → ödeme döngüsünü yöneten adisyon uygulaması ve REST API'si. | Flutter, Dart (shelf), SQLite |
+| 📓 **[CepteStaj](https://github.com/MuratEfeCamoglu/CepteStaj)** | Stajyerler için offline-first staj defteri; resmi defter için PDF çıktısı ve kişisel staj günlüğü. | Flutter, Dart, PDF |
+| 📡 **[Serial Bluetooth Terminal](https://github.com/MuratEfeCamoglu/Serial_Bluetooth_Terminal)** | Arduino / ESP32 gibi kartlarla Bluetooth Classic ve BLE üzerinden seri haberleşme terminali. | Flutter, Bluetooth, BLE |
+| 🛒 **[E-commerce App](https://github.com/MuratEfeCamoglu/E-commerce-App)** | Savunma elektroniği bileşen tedariki için B2B e-ticaret uygulaması (sepet, favoriler, siparişler). | Flutter, Provider |
+| 🏥 **[Sağlıkla App](https://github.com/MuratEfeCamoglu/Saglikla-App)** | Diyabet ve çölyak hastaları için barkod tarama ve görsel besin analizi sunan yapay zekâ destekli sağlık asistanı. | Flutter, Firebase, Gemini AI |
+| ☁️ **[Skycast](https://github.com/MuratEfeCamoglu/Skycast-App)** | Anlık, saatlik ve 7 günlük tahmin, grafik ve harita desteğine sahip hava durumu uygulaması. | Flutter, OpenWeatherMap, fl_chart |
+| 🏠 **[FamilyTrackApp](https://github.com/MuratEfeCamoglu/FamilyTrackApp)** | Sevdiklerinizle özel günleri ve anıları takip eden, çevrimdışı çalışan hafıza defteri. | Flutter, Firebase Auth, Firestore |
+| 📊 **[Expense Tracker](https://github.com/MuratEfeCamoglu/Expense-Tracker)** | Harcama takibi, kategorilendirme ve grafiksel analiz sunan bütçe yönetim uygulaması. | Flutter, Isar, fl_chart |
+
+<details>
+<summary><b>Diğer projeler</b></summary>
+<br />
+
+- 🏺 **[SavingsJarApp](https://github.com/MuratEfeCamoglu/SavingsJarApp)** — Hedef odaklı sanal "kavanozlar" ile birikim takibi (Flutter, Firebase, Google ile giriş).
+- 📝 **[ToDo App](https://github.com/MuratEfeCamoglu/ToDo-App)** — Kategori ve takvim görünümlü yapılacaklar listesi (Flutter).
+- 🛍️ **[Shopping App](https://github.com/MuratEfeCamoglu/Shoping_app)** — Provider mimarisiyle ürün listeleme ve sepet yönetimi (Flutter).
+- 🌐 **[Web-Sayfam](https://github.com/MuratEfeCamoglu/Web-Sayfam)** — Kişisel portfolyo sitesi (Next.js 14, Tailwind CSS, TypeScript).
+- 🚗 **[TolgaOtoBoya-Website](https://github.com/MuratEfeCamoglu/TolgaOtoBoya-Website)** — Bir oto boya atölyesi için tek sayfalık kurumsal web sitesi (HTML, CSS, JavaScript).
+
+</details>
 
 ---
 
 ### 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuratEfeCamoglu&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratEfeCamoglu&layout=compact&theme=default" />
+  <a href="https://github.com/MuratEfeCamoglu?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuratEfeCamoglu&show_icons=true&hide_border=true&theme=default" alt="Murat Efe Çamoğlu GitHub istatistikleri" />
+  </a>
+  <a href="https://github.com/MuratEfeCamoglu?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratEfeCamoglu&layout=compact&hide_border=true&theme=default" alt="En çok kullanılan diller" />
+  </a>
 </p>
 
 ---
@@ -42,10 +99,8 @@
 ### 🌐 Bana Ulaşın
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/MuratEfeCamoglu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:camoglumuratefe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://muratefecamoglu.vercel.app/"><img src="https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolyo" /></a>
+  <a href="https://www.linkedin.com/in/murat-efe-%C3%A7amo%C4%9Flu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:camoglumuratefe@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
+  <a href="https://github.com/MuratEfeCamoglu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
