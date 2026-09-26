@@ -83,15 +83,14 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 🐍 Katkı Grafiği
 
-<p align="left">
-  <a href="https://github.com/MuratEfeCamoglu?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuratEfeCamoglu&show_icons=true&hide_border=true&theme=default" alt="Murat Efe Çamoğlu GitHub istatistikleri" />
-  </a>
-  <a href="https://github.com/MuratEfeCamoglu?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratEfeCamoglu&layout=compact&hide_border=true&theme=default" alt="En çok kullanılan diller" />
-  </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuratEfeCamoglu/MuratEfeCamoglu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuratEfeCamoglu/MuratEfeCamoglu/output/github-snake.svg" />
+    <img alt="Katkı grafiğini yiyen yılan animasyonu" src="https://raw.githubusercontent.com/MuratEfeCamoglu/MuratEfeCamoglu/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
