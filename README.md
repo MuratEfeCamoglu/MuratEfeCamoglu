@@ -14,9 +14,12 @@
 
 ### 🚀 Hakkımda
 
+- 🎓 Balıkesir Üniversitesi Bilgisayar Mühendisliği 4. sınıf (son sınıf) öğrencisiyim
 - 📱 Flutter ve Dart ile Android, iOS ve web için mobil uygulamalar geliştiriyorum
-- 🧱 Provider ile state yönetimi, Firebase, Isar ve SQLite ile veri katmanı üzerinde çalışıyorum
+- 🧱 Provider ve BLoC ile state yönetimi, Firebase ve SQLite ile veri katmanı üzerinde çalışıyorum
 - 🔌 Bluetooth / BLE ile donanım haberleşmesi ve Gemini AI gibi servis entegrasyonları ilgimi çekiyor
+- 💼 Barok Savunma (Temmuz – Ağustos 2026) ve Qua Granite (Temmuz – Ağustos 2025) bünyesinde Bilgisayar Mühendisi Stajyeri olarak çalıştım
+- 🥈 BanüJam 2 – AppJam Hackathon'unda (GDG on Campus BANÜ) *Sağlıkla* ile 2.lik ödülü kazandım
 - 🌱 Sürekli yeni teknolojiler ve mimari yaklaşımlar öğreniyorum
 - 🌐 Portfolyom: **[muratefecamoglu.vercel.app](https://muratefecamoglu.vercel.app/)**
 - 📫 Bana ulaşmak için: **[camoglumuratefe@gmail.com](mailto:camoglumuratefe@gmail.com)**
@@ -32,13 +35,13 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Provider-6A1B9A?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+  <img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
 </p>
 
 **Veri & Backend**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Isar-5A67D8?style=for-the-badge&logo=databricks&logoColor=white" alt="Isar" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
@@ -55,7 +58,7 @@
 
 ---
 
-### 📌 Öne Çıkan Projeler
+### 📱 Öne Çıkan Mobil Projeler
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
@@ -64,18 +67,25 @@
 | 📓 **[CepteStaj](https://github.com/MuratEfeCamoglu/CepteStaj)** | Stajyerler için offline-first staj defteri; resmi defter için PDF çıktısı ve kişisel staj günlüğü. | Flutter, Dart, PDF |
 | 📡 **[Serial Bluetooth Terminal](https://github.com/MuratEfeCamoglu/Serial_Bluetooth_Terminal)** | Arduino / ESP32 gibi kartlarla Bluetooth Classic ve BLE üzerinden seri haberleşme terminali. | Flutter, Bluetooth, BLE |
 | 🛒 **[E-commerce App](https://github.com/MuratEfeCamoglu/E-commerce-App)** | Savunma elektroniği bileşen tedariki için B2B e-ticaret uygulaması (sepet, favoriler, siparişler). | Flutter, Provider |
-| 🏥 **[Sağlıkla App](https://github.com/MuratEfeCamoglu/Saglikla-App)** | Diyabet ve çölyak hastaları için barkod tarama ve görsel besin analizi sunan yapay zekâ destekli sağlık asistanı. | Flutter, Firebase, Gemini AI |
+| 🏥 **[Sağlıkla App](https://github.com/MuratEfeCamoglu/Saglikla-App)** | Diyabet ve çölyak hastaları için barkod tarama ve görsel besin analizi sunan yapay zekâ destekli sağlık asistanı. 🥈 BanüJam 2 Hackathon 2.si | Flutter, Firebase, Gemini AI |
 | ☁️ **[Skycast](https://github.com/MuratEfeCamoglu/Skycast-App)** | Anlık, saatlik ve 7 günlük tahmin, grafik ve harita desteğine sahip hava durumu uygulaması. | Flutter, OpenWeatherMap, fl_chart |
-| 🏠 **[FamilyTrackApp](https://github.com/MuratEfeCamoglu/FamilyTrackApp)** | Sevdiklerinizle özel günleri ve anıları takip eden, çevrimdışı çalışan hafıza defteri. | Flutter, Firebase Auth, Firestore |
+| 🏠 **[FamilyTrackApp](https://github.com/MuratEfeCamoglu/FamilyTrackApp)** | Sevdiklerinizle özel günleri ve anıları takip eden, çevrimdışı çalışan hafıza defteri. | Flutter, BLoC, Firebase Auth, Firestore |
 | 📊 **[Expense Tracker](https://github.com/MuratEfeCamoglu/Expense-Tracker)** | Harcama takibi, kategorilendirme ve grafiksel analiz sunan bütçe yönetim uygulaması. | Flutter, Isar, fl_chart |
 
 <details>
 <summary><b>Diğer projeler</b></summary>
 <br />
 
+**📱 Mobil**
+
+- 🥗 **[Denge — EatWellApp](https://github.com/MuratEfeCamoglu/EatWellApp)** — Türk mutfağını tanıyan kalori ve beslenme takibi (Flutter, Provider, Google ML Kit).
 - 🏺 **[SavingsJarApp](https://github.com/MuratEfeCamoglu/SavingsJarApp)** — Hedef odaklı sanal "kavanozlar" ile birikim takibi (Flutter, Firebase, Google ile giriş).
 - 📝 **[ToDo App](https://github.com/MuratEfeCamoglu/ToDo-App)** — Kategori ve takvim görünümlü yapılacaklar listesi (Flutter).
 - 🛍️ **[Shopping App](https://github.com/MuratEfeCamoglu/Shoping_app)** — Provider mimarisiyle ürün listeleme ve sepet yönetimi (Flutter).
+
+**🌐 Web**
+
+- 🏀 **[NBA Sezon Öncesi Tahmin](https://github.com/MuratEfeCamoglu/NbaWebsite)** — 2026-27 NBA sezonu için sıralama ve Alt/Üst tahmin oyunu (Next.js 16, React 19, TypeScript).
 - 🌐 **[Web-Sayfam](https://github.com/MuratEfeCamoglu/Web-Sayfam)** — Kişisel portfolyo sitesi (Next.js 14, Tailwind CSS, TypeScript).
 - 🚗 **[TolgaOtoBoya-Website](https://github.com/MuratEfeCamoglu/TolgaOtoBoya-Website)** — Bir oto boya atölyesi için tek sayfalık kurumsal web sitesi (HTML, CSS, JavaScript).
 
