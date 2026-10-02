@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MuratEfeCamoglu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Merhaba%2C+ben+Murat+Efe+%C3%87amo%C4%9Flu+%F0%9F%91%8B;%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Dart;%F0%9F%93%8D+Ayd%C4%B1n%2C+T%C3%BCrkiye" alt="Merhaba, ben Murat Efe Çamoğlu — Mobile Developer | Flutter & Dart" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Merhaba%2C+ben+Murat+Efe+%C3%87amo%C4%9Flu+%F0%9F%91%8B;%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Dart;%F0%9F%93%8D+Ayd%C4%B1n%2C+T%C3%BCrkiye" alt="Merhaba, ben Murat Efe Çamoğlu — Mobile Developer | Flutter & Dart" />
   </a>
 </p>
 
@@ -10,9 +10,7 @@
   <a href="mailto:camoglumuratefe@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
 </p>
 
----
-
-### 🚀 Hakkımda
+## 🚀 Hakkımda
 
 - 🎓 Balıkesir Üniversitesi Bilgisayar Mühendisliği 4. sınıf (son sınıf) öğrencisiyim
 - 📱 Flutter ve Dart ile Android, iOS ve web için mobil uygulamalar geliştiriyorum
@@ -24,9 +22,7 @@
 - 🌐 Portfolyom: **[muratefecamoglu.vercel.app](https://muratefecamoglu.vercel.app/)**
 - 📫 Bana ulaşmak için: **[camoglumuratefe@gmail.com](mailto:camoglumuratefe@gmail.com)**
 
----
-
-### 🛠️ Kullandığım Teknolojiler
+## 🛠️ Kullandığım Teknolojiler
 
 **Mobil**
 
@@ -56,9 +52,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-### 📱 Öne Çıkan Mobil Projeler
+## 📱 Öne Çıkan Mobil Projeler
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
@@ -91,9 +85,7 @@
 
 </details>
 
----
-
-### 🐍 Katkı Grafiği
+## 🐍 Katkı Grafiği
 
 <p align="center">
   <picture>
@@ -103,9 +95,7 @@
   </picture>
 </p>
 
----
-
-### 🌐 Bana Ulaşın
+## 🌐 Bana Ulaşın
 
 <p align="left">
   <a href="https://muratefecamoglu.vercel.app/"><img src="https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolyo" /></a>
