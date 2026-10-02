@@ -70,7 +70,7 @@
 | 🏥 **[Sağlıkla App](https://github.com/MuratEfeCamoglu/Saglikla-App)** | Diyabet ve çölyak hastaları için barkod tarama ve görsel besin analizi sunan yapay zekâ destekli sağlık asistanı. 🥈 BanüJam 2 Hackathon 2.si | Flutter, Firebase, Gemini AI |
 | ☁️ **[Skycast](https://github.com/MuratEfeCamoglu/Skycast-App)** | Anlık, saatlik ve 7 günlük tahmin, grafik ve harita desteğine sahip hava durumu uygulaması. | Flutter, OpenWeatherMap, fl_chart |
 | 🏠 **[FamilyTrackApp](https://github.com/MuratEfeCamoglu/FamilyTrackApp)** | Sevdiklerinizle özel günleri ve anıları takip eden, çevrimdışı çalışan hafıza defteri. | Flutter, BLoC, Firebase Auth, Firestore |
-| 📊 **[Expense Tracker](https://github.com/MuratEfeCamoglu/Expense-Tracker)** | Harcama takibi, kategorilendirme ve grafiksel analiz sunan bütçe yönetim uygulaması. | Flutter, Isar, fl_chart |
+| 📊 **[Expense Tracker](https://github.com/MuratEfeCamoglu/Expense-Tracker)** | Harcama takibi, kategorilendirme ve grafiksel analiz sunan bütçe yönetim uygulaması. | Flutter, Provider, fl_chart |
 
 <details>
 <summary><b>Diğer projeler</b></summary>
